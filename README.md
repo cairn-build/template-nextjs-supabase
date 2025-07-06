@@ -1,3 +1,11 @@
+## Template for Nextjs & Supabase Stack
+
+Confirm your email after sign up before login in
+
+SSR Setup for Next: https://supabase.com/docs/guides/auth/server-side/nextjs
+
+## BASE DESCRIPTION
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
